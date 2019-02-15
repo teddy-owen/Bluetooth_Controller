@@ -7,3 +7,5 @@ This begins listening for bluetooth serial commands and shows them in the termin
 
 Requirements: PyBluez (configuring PyBluez can be a bit tricky)
 https://github.com/pybluez/pybluez
+
+![demo](https://raw.githubusercontent.com/teddy-owen/Bluetooth_Controller/master/example.png)
